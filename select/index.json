@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Ivy",
   "base_artist": "Frank Ocean",
-  "createdAt": "2026-03-30T13:01:46.992571Z",
+  "createdAt": "2026-03-30T13:06:56.139914Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,7 +139,7 @@
       "artist": "Frank Ocean",
       "has_synced": true,
       "path": "select/localdb_01_Ivy_Frank_Ocean.lrc",
-      "repo_name": "RQOq4TlnSLI"
+      "repo_name": "ylSAoy_0WWY"
     },
     {
       "id": "localdb_2",
@@ -148,7 +148,7 @@
       "artist": "Frank Ocean",
       "has_synced": true,
       "path": "select/localdb_02_Ivy_Frank_Ocean.lrc",
-      "repo_name": "ylSAoy_0WWY"
+      "repo_name": "RQOq4TlnSLI"
     },
     {
       "id": "localdb_3",
